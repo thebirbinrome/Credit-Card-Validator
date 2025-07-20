@@ -1,8 +1,8 @@
 # Credit Card Validator
 
-This Python script validates credit card numbers using the **Luhn Algorithm**, a simple checksum formula used to validate a variety of identification numbers.
+This Python script validates credit card numbers using the **Luhn Algorithm**, a simple formula used to validate a variety of identification numbers.
 
-## 💻 How it works
+## How it works
 
 - It strips spaces and dashes from the input number.
 - It reverses the number and:
